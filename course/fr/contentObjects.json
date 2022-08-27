@@ -1,0 +1,81 @@
+[
+  {
+    "title": "New Menu/Page Title",
+    "displayTitle": "Physique - Tension Continue ",
+    "body": "",
+    "_classes": "",
+    "subtitle": "Chapitre: 5",
+    "pageBody": "<p dir=\"rtl\" style=\"text-align:left\"><span style=\"color:#FF0000\"><strong>ملاحظة!</strong></span></p><p dir=\"rtl\" style=\"text-align:left\"><span style=\"color:#FF0000\">هذا الدرس هو بصيغة تجريبيّة</span></p><p dir=\"rtl\" style=\"text-align:left\"><span style=\"color:#FF0000\">يلزمهه تسجيل صوتي مناسب</span></p><p dir=\"rtl\" style=\"text-align:left\"><span style=\"color:#FF0000\">وإعادة تصميم الغرافيكس بطريقة أكثر إحترافيّة</span></p><p dir=\"rtl\" style=\"text-align:left\"><span style=\"color:#FF0000\">وملاحظات أخصائي المادة</span></p><p dir=\"rtl\" style=\"text-align:left\"><span style=\"color:#FF0000\">وتدقيق باللغة الفرنسيّة</span></p><p dir=\"rtl\" style=\"text-align:left\">&nbsp;</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "Commencer",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62dabfe08b6cae16bc3e4156",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/fr/assets/a8fcad761782e93991372e85313cc60f12bd712e.svg",
+        "_medium": "course/fr/assets/a8fcad761782e93991372e85313cc60f12bd712e.svg",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "repeat-y",
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]

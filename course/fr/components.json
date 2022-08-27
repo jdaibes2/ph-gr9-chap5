@@ -1,0 +1,4107 @@
+[
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Objectifs:",
+    "body": "",
+    "_id": "62dac3658b6cae16bc3e415e",
+    "_parentId": "62dabfe08b6cae16bc3e4158",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p><strong>Mesurer une tension continue à l’aide d’un voltmètre numérique.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Mesurer l’intensité du courant à l’aide d’un ampèremètre numérique.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Connaître les lois des tensions et des intensités relatives à un circuit électrique.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Mesurer une tension continue à l’aide d’un oscilloscope.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62dac6128b6cae16bc3e4165",
+    "_parentId": "62dac5fe8b6cae16bc3e4163",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/50a536250036c9c15d77c9a5e6ed5dda5a55bf10.svg",
+      "small": "course/fr/assets/50a536250036c9c15d77c9a5e6ed5dda5a55bf10.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Exercice-1:</strong></p><p><strong>Composants électriques et leurs symboles...&nbsp;fig (a)</strong></p>",
+    "_id": "62daca638b6cae16bc3e416a",
+    "_parentId": "62daca588b6cae16bc3e4169",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/2a1a00bbfaf1ad536ea0e5800ead51846a7b4e68.png",
+      "small": "course/fr/assets/2a1a00bbfaf1ad536ea0e5800ead51846a7b4e68.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "sortable",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q0",
+    "displayTitle": "",
+    "body": "<p><strong>Arrangez les termes suivants, selon la </strong></p><p><strong>figure (a)</strong></p>",
+    "_id": "62daca6b8b6cae16bc3e416b",
+    "_parentId": "62daca588b6cae16bc3e4169",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "overlay",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Pile",
+        "_startPosition": 0
+      },
+      {
+        "text": "Générateur",
+        "_startPosition": 0
+      },
+      {
+        "text": "Fil de connexion",
+        "_startPosition": 0
+      },
+      {
+        "text": "Lampe",
+        "_startPosition": 0
+      },
+      {
+        "text": "Interrupteur ouvert",
+        "_startPosition": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Exercice-2:</strong></p><p><strong>Composants électriques et leurs symboles...&nbsp;fig (b)</strong></p>",
+    "_id": "62dacf7a8b6cae16bc3e4171",
+    "_parentId": "62dacf7a8b6cae16bc3e4170",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/5e50981350764021d88e8f194196c7f168218fed.png",
+      "small": "course/fr/assets/5e50981350764021d88e8f194196c7f168218fed.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "sortable",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q1",
+    "displayTitle": "",
+    "body": "<p><strong>Arrangez les termes suivants, selon la </strong></p><p><strong>figure (b)</strong></p>",
+    "_id": "62dacf7a8b6cae16bc3e4174",
+    "_parentId": "62dacf7a8b6cae16bc3e4170",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Interrupteur fermé",
+        "_startPosition": 0
+      },
+      {
+        "text": "Voltmètre",
+        "_startPosition": 0
+      },
+      {
+        "text": "Ampèremètre",
+        "_startPosition": 0
+      },
+      {
+        "text": "Moteur",
+        "_startPosition": 0
+      },
+      {
+        "text": "Conducteur homique",
+        "_startPosition": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "COMPOSANTS ÉLECTRIQUE ET CIRCUIT ÉLECTRIQUE",
+    "body": "",
+    "_id": "62dad6738b6cae16bc3e4187",
+    "_parentId": "62dad66c8b6cae16bc3e4186",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62dae5138b6cae16bc3e418e",
+    "_parentId": "62dae50e8b6cae16bc3e418d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "assets/index2.html",
+    "_initialWidth": 931,
+    "_initialHeight": 600,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62dafd74846bb91b207899ba",
+    "_parentId": "62dafd74846bb91b207899b9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "assets/circuit-construction-kit.html",
+    "_initialWidth": 800,
+    "_initialHeight": 488,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF8C00\"><strong>Classe&nbsp;&nbsp; : Neuvième Année de l'éducation de Base</strong></span></p><p><span style=\"color:#FF8C00\"><strong>Unité 1 : Électricité</strong></span></p>",
+    "_id": "62e03cc3591d3720a4e7d559",
+    "_parentId": "62e03cc3591d3720a4e7d558",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "component2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62e03cc4591d3720a4e7d55a",
+    "_parentId": "62e03cc3591d3720a4e7d558",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/c4ebbae20b0cd534aebc062a76a5e972e9bc3ad0.png",
+      "small": "course/fr/assets/c4ebbae20b0cd534aebc062a76a5e972e9bc3ad0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62e194c5b18532238cde1de3",
+    "_parentId": "62e194c0b18532238cde1de2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": true,
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_assessmentId": "allinone",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "",
+      "_routeToAssessment": false
+    },
+    "_completionBody": "<div style=\"font-size:2rem\"><p style=\"text-align:center\"><strong><span style=\"background-color:#FF8C00\">&nbsp;Votre score est:&nbsp;</span></strong></p><p style=\"text-align:center\"><strong>{{{score}}} / {{{maxScore}}}</strong></p></div>",
+    "_bands": []
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Deviner",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62ecd6a32e4b82351495e235",
+    "_parentId": "62ecd6a32e4b82351495e234",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/5ac2f2df3637602a068bbf1c861e4bfc676500f1.svg",
+      "small": "course/fr/assets/5ac2f2df3637602a068bbf1c861e4bfc676500f1.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Se rappeler",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62ed141ebd78a51f2c6a6281",
+    "_parentId": "62ed141ebd78a51f2c6a6280",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/096c0bd53d00884259fa333dfab54a78c0a9831a.svg",
+      "small": "course/fr/assets/096c0bd53d00884259fa333dfab54a78c0a9831a.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Decouvrir",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62ed1c1abd78a51f2c6a6287",
+    "_parentId": "62daf949846bb91b207899a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/cb4b693858bb4413d577237624bb5cbc8e1bbf49.svg",
+      "small": "course/fr/assets/cb4b693858bb4413d577237624bb5cbc8e1bbf49.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62ed652f7e7a30079069fa6f",
+    "_parentId": "62ed652f7e7a30079069fa6e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/03MSbmVgt6c",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Ouvrir les renseignements!",
+      "inlineTranscriptCloseButton": "Fermer les renseignements!",
+      "inlineTranscriptBody": "<p><strong><span style=\"background-color:#FFA500\">1- l'accent du français utilisé dans cette vidéo est le canadien.</span></strong></p><p><strong><span style=\"background-color:#FFA500\">2- prendre les précautions quand vous allez essayer de monter un circuit électrique.</span></strong></p><p><strong><span style=\"background-color:#FFA500\">3- Circuit en parallèle est le le cicuit nommé en dérivation.</span></strong></p><p>&nbsp;</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Real ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62ee1ba97e7a30079069fa78",
+    "_parentId": "62ee1ba97e7a30079069fa77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/38f52eaa2a6bcd0095fe7e0c1d4505fde1c609ef.svg",
+      "small": "course/fr/assets/38f52eaa2a6bcd0095fe7e0c1d4505fde1c609ef.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "INTRODUCTION",
+    "body": "<p><strong>La tension et l’intensité du courant électrique sont deux grandeurs caractéristiques du circuit électrique. Dans ce chapitre, nous allons rappeler les lois des circuits électriques et nous apprendrons à mesurer la tension électrique entre deux points d’un circuit électrique.</strong></p>",
+    "_id": "62ee2abd7e7a30079069fa95",
+    "_parentId": "62dac5fe8b6cae16bc3e4163",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/fr/assets/5875bc22460e3331348521797dafcc09bdf45329.mp3",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Activité 1:",
+    "displayTitle": "Activité 1:",
+    "body": "",
+    "_id": "62f8b3245c9beb2770bf465a",
+    "_parentId": "62e246d4dcc150035c7c5193",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><u><strong>Fig. 1a:</strong></u></p><p><strong>Le voltmètre mesure la tension de la pile.</strong></p>",
+        "_graphic": {
+          "src": "course/fr/assets/3055b231e7d73d510e8a3cd7035eec2a445fffb8.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Fig. 1a"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><u><strong>Fig. 1b:</strong></u></p><p><strong>Mesure de la tension de la pile avec le calibre le mieux adapté</strong></p>",
+        "_graphic": {
+          "src": "course/fr/assets/afbb6eb2f61a30be99c4df622f7bdffc2169748c.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Fig. 1b"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF8C00\"><u><strong>Utilisation d'un voltmètre numérique.</strong></u></span><br /><strong>Prenez un multimètre fonctionnant en voltmètre.</strong><br /><strong>Sélectionnez le plus grand calibre de la zone VDC=</strong><br /><strong>Branchez le voltmètre aux bornes d'une pile 6V (Fig.1a).</strong></p>",
+    "_id": "62f8b6125c9beb2770bf4661",
+    "_parentId": "62ed0eaebd78a51f2c6a6277",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q2",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Quelle borne de la pile faut-il brancher au COM du voltmètre?</strong></p>",
+    "_id": "62f8b8c15c9beb2770bf4667",
+    "_parentId": "62f8b8c15c9beb2770bf4666",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Borne negative",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Borne positive",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q3",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Qu'affiche le voltmètre?</strong></p>",
+    "_id": "62f8b8d75c9beb2770bf466c",
+    "_parentId": "62f8b8d75c9beb2770bf466a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "600 V",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "6 V",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF8C00\"><strong>Sélectionnez le&nbsp;calibre le mieux adapté à la mesure de la tension de la pile.&nbsp;</strong><strong>(Fig.1b).</strong></span></p>",
+    "_id": "62f8b95c5c9beb2770bf466f",
+    "_parentId": "62f8b95c5c9beb2770bf466e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q4",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Que signifie le \"calibre le mieux adapté\"?</strong></p>",
+    "_id": "62f8baa75c9beb2770bf4672",
+    "_parentId": "62f8baa75c9beb2770bf4671",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "le plus grand calibre du voltmètre",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Le plus grand calibre proche de la valeur mesurée",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q6",
+    "displayTitle": "",
+    "body": "<p><strong>❯ La tension affichée est-elle pratiquement constante?</strong></p>",
+    "_id": "62f8bc4a5c9beb2770bf4675",
+    "_parentId": "62f8bc4a5c9beb2770bf4674",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Non",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Oui",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q5",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Qu'affiche le voltmètre?</strong></p>",
+    "_id": "62f8bc635c9beb2770bf4678",
+    "_parentId": "62f8bc635c9beb2770bf4677",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "34.6 V",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "6.34 V",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q7",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Qu'affiche le voltmètre si on inverse les connexions de la pile?</strong></p>",
+    "_id": "62f8bc705c9beb2770bf467b",
+    "_parentId": "62f8bc705c9beb2770bf467a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Reste le même",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "- 6.34 V",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Narrative1",
+    "displayTitle": "Activité 2",
+    "body": "",
+    "_id": "62f8ee1defcc9f1550d04e15",
+    "_parentId": "62f8ee1defcc9f1550d04e14",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><u><strong>Fig. 2a:</strong></u></p><p>Branchement d'un ampèremètre dans un circuit.</p>",
+        "_graphic": {
+          "src": "course/fr/assets/d7479f6207928ebcf10578fc17429ae8c0beadc6.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Fig. 2a"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><u><strong>Fig. 2b:</strong></u></p><p>L'interrupteur est ouvert.</p>",
+        "_graphic": {
+          "src": "course/fr/assets/8f0069cf8121f180f8b6be137de32e897d80bb61.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Fig. 2b"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><u><strong>Fig. 2c:</strong></u></p><p>L'interrupteur est fermé.</p>",
+        "_graphic": {
+          "src": "course/fr/assets/1c05e32925b119a85b07514c889be1968f3a0320.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Fig. 2c"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><u><strong>Fig. 2d:</strong></u></p><p>Le calibre de l'ampèremètre est le mieux adapté à la mesure.</p>",
+        "_graphic": {
+          "src": "course/fr/assets/83146374a3e30d860bb62d4e632ce4fe47e8e0ce.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Fig. 2d"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF8C00\"><u><strong>Utilisation d'un ampèremètre numérique.</strong></u></span><br /><strong>Prenez un multimètre fonctionnant en ampèremètre.</strong><br /><strong>Sélectionnez le plus grand calibre de la zone ADC (10A).</strong><br /><strong>Connectez en série, l'ampèremètre avec une lampe et un interrupteur aux bornes d'une pile 6V (Fig. 2a).</strong></p>",
+    "_id": "62f8ee4aefcc9f1550d04e1a",
+    "_parentId": "62f8ee49efcc9f1550d04e19",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q8",
+    "displayTitle": "",
+    "body": "<p><strong>❯ A quelle borne de la pile, la borne&nbsp;COM de l'ampèremètre doit-elle être connectée?</strong></p><p><strong>L'interrupteur est ouvert (Fig.2-b)</strong></p>",
+    "_id": "62f8f3a7efcc9f1550d04e2e",
+    "_parentId": "62f8f3a7efcc9f1550d04e2d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Borne negative",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Borne positive",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q9",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Qu'affiche l'ampèremètre?</strong></p><p><strong>L'interrupteur est fermé(Fig.2-c)</strong></p>",
+    "_id": "62f8f468efcc9f1550d04e36",
+    "_parentId": "62f8f468efcc9f1550d04e35",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "0.40 A",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "40 A",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q10",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Qu'affiche l'ampèremètre?</strong></p><p><strong>Choisissez le calibre le mieux adapté&nbsp;(Fig.2-d)</strong></p>",
+    "_id": "62f8f55eefcc9f1550d04e39",
+    "_parentId": "62f8f55eefcc9f1550d04e38",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "0.43 A",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "0.04 A",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q11",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Cette valeur est-elle pratiquement constante?</strong></p>",
+    "_id": "62f8f662efcc9f1550d04e3c",
+    "_parentId": "62f8f662efcc9f1550d04e3b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Oui",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Non",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Apprendre",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f8f6fbefcc9f1550d04e3f",
+    "_parentId": "62f8f6fbefcc9f1550d04e3e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/923dbd5b2ecd367e804b6180a93c8e6b39678f73.svg",
+      "small": "course/fr/assets/923dbd5b2ecd367e804b6180a93c8e6b39678f73.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Apprendre",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f951d6b82ea51998f39293",
+    "_parentId": "62f951d5b82ea51998f39292",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/923dbd5b2ecd367e804b6180a93c8e6b39678f73.svg",
+      "small": "course/fr/assets/923dbd5b2ecd367e804b6180a93c8e6b39678f73.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f95224b82ea51998f39298",
+    "_parentId": "62f95224b82ea51998f39297",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "assets/index.html",
+    "_initialWidth": 931,
+    "_initialHeight": 600,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q13",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Quelle est l'intensité mesurée dans chaque ampèremètre?</strong></p>",
+    "_id": "62f9fd05892df42644d41d42",
+    "_parentId": "62f9fd05892df42644d41d41",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "0.30 A",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "0.6 A",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q14",
+    "displayTitle": "",
+    "body": "<p><strong>❯ L'intensité du courant est-elle la même dans tous les éléments montés en série dans un circuit?</strong></p>",
+    "_id": "62f9fd9a892df42644d41d45",
+    "_parentId": "62f9fd9a892df42644d41d44",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Oui",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Non",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><a href=\"#62dafd74846bb91b207899b9\">Revenir à la simulation </a></p>",
+    "_id": "62f9fe99892df42644d41d48",
+    "_parentId": "62f9fe98892df42644d41d47",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/fr/assets/40fe8e20fa6c2aee8b57db015870e983a3d8c3f3.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/fr/assets/3605b0917d7cb61ae9d61c4576d17666f1b62ddc.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Activité 3:",
+    "displayTitle": "",
+    "body": "<p><u><strong>Fig. 5:</strong></u></p><p><strong>Relation entre les tensions et les intensités du&nbsp;courant&nbsp;dans&nbsp;un circuit en dérivation.</strong></p>",
+    "_id": "62f9ff3a892df42644d41d4d",
+    "_parentId": "62f9ff3a892df42644d41d4c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><span style=\"color:#FF8C00\"><strong>Circuit en dérivation.</strong></span></p><p>En se servant de la <a href=\"#62dafd74846bb91b207899b9\">simulation</a> ci-dessus, réalisez le circuit électrique suivant: deux lampes L1&nbsp;et L2 de l'activité 4 sont branchés en dérivation bornes de la pile 6V. Intercalez un ampèremètre en série avec chaque lampe et un troisième en série avec la pile.</p><p>Fermez l'interrupteur (Fig. 5)</p>",
+        "_graphic": {
+          "src": "course/fr/assets/794112626e2a62c4a4bd26a3d6dc63dd1530ba7f.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Enoncé"
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "L'essentiel",
+    "body": "",
+    "_id": "62f9ff5e892df42644d41d52",
+    "_parentId": "62f9ff5e892df42644d41d51",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p><strong>Le voltmètre et l’oscilloscope, branchés en dérivation entre deux points d'un circuit électrique, mesurent la tension et électrique entre ces deux points.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>L'ampèremètre, monté en série dans un circuit, mesure l'intensité du courant électrique.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Dans le cas d'éléments associés en série:</strong></p><p><strong>&nbsp;- l'intensité du courant est la même dans tous les éléments du circuit;</strong></p><p><strong>&nbsp;- les tensions aux bornes des éléments du circuit s'ajoutent.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Dans le cas d'éléments associés en dérivation:</strong></p><p><strong>&nbsp;- l'intensité du courant principale est égale à somme des intensités des courants dans les dérivations;</strong></p><p><strong>&nbsp;- la tension est la même aux bornes de toutes les dérivations.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q15",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Quelle est la tension aux bornes de la lampe L1 du circuit? <em>(mesurez la avec le voltmètre de la simulation)</em></strong></p>",
+    "_id": "62fa004f892df42644d41d56",
+    "_parentId": "62fa004f892df42644d41d55",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "3 V",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "6 V",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q16",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Quelle est la tension aux bornes de la lampe L2 du circuit? <em>(mesurez la avec le voltmètre de la simulation)</em></strong></p>",
+    "_id": "62fa0147892df42644d41d59",
+    "_parentId": "62fa0147892df42644d41d58",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "3 V",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "6 V",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Guide-moi",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630772520d9f112ef8c3d93f",
+    "_parentId": "630772520d9f112ef8c3d93d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/6d7cc3a384a6cc7170e8ae544510d9231cc2b4ad.svg",
+      "small": "course/fr/assets/6d7cc3a384a6cc7170e8ae544510d9231cc2b4ad.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF0000\"><em><strong>Dans cette partie, vous allez résoudre deux exercices, en déplacant chaque item à côté de la figure correspondante!</strong></em></span></p>",
+    "_id": "63077a3b0d9f112ef8c3d947",
+    "_parentId": "63077a3b0d9f112ef8c3d946",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Guide-moi",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6307811b0d9f112ef8c3d94a",
+    "_parentId": "6307811b0d9f112ef8c3d949",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/6d7cc3a384a6cc7170e8ae544510d9231cc2b4ad.svg",
+      "small": "course/fr/assets/6d7cc3a384a6cc7170e8ae544510d9231cc2b4ad.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF0000\"><em><strong>Dans la partie suivante, vous aurez deux activités à faire, vous pouvez naviguer les différentes figures dans le composant \"Narrative\" correspondant, en c</strong></em></span><span style=\"color:#FF0000\"><em><strong>liquant les flèches à droite ou à gauche, et y revenir chaque fois que la question posée nécessite de voir une figure.</strong></em></span></p>",
+    "_id": "630781310d9f112ef8c3d94f",
+    "_parentId": "630781310d9f112ef8c3d94e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Guide-moi",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6307d0a5b5f2391a94fe7456",
+    "_parentId": "6307d0a4b5f2391a94fe7455",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/6d7cc3a384a6cc7170e8ae544510d9231cc2b4ad.svg",
+      "small": "course/fr/assets/6d7cc3a384a6cc7170e8ae544510d9231cc2b4ad.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF0000\"><em><strong>Dans cette partie, vous allez pratiquer avec une simulation, tout d'abord avec un circuit en série, puis avec un circuit en dérivation, tout en faisant un circuit selon les schémas proposés dans les \"narratives\"</strong></em></span></p><p><a href=\"#62f9fe98892df42644d41d47\">Comment utiliser la simulation? Cliquez içi... </a></p>",
+    "_id": "6307d0c2b5f2391a94fe745b",
+    "_parentId": "6307d0c2b5f2391a94fe745a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Activité 3:",
+    "displayTitle": "",
+    "body": "<p><u><strong>Fig. 4</strong></u></p><p><strong>Relation entre les intensités du courant en différents points d'un circuit série.</strong></p>",
+    "_id": "6307d2c5b5f2391a94fe745e",
+    "_parentId": "6307d2c5b5f2391a94fe745d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><span style=\"color:#FF8C00\"><strong>Circuit en série.</strong></span></p><p>En se servant de la <a href=\"#62dafd74846bb91b207899b9\">simulation</a> ci-dessous, réalisez le circuit électrique suivant: deux lampes L1 (3.5 V, 30 mA) et L2 (6 V, 60 mA), un interrupteur et deux ampèremètre sont montés en série aux bornes de la pile 6V.</p><p>Fermez l'interrupteur (Fig. 4a)</p>",
+        "_graphic": {
+          "src": "course/fr/assets/0a982773ffb2270513f7d2851d3d16330a02c5d2.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Enoncé"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "demi",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Apprendre",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6309d8ca107ff32a94001a60",
+    "_parentId": "6309d8c9107ff32a94001a5f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/923dbd5b2ecd367e804b6180a93c8e6b39678f73.svg",
+      "small": "course/fr/assets/923dbd5b2ecd367e804b6180a93c8e6b39678f73.svg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6309d928107ff32a94001a68",
+    "_parentId": "6309d928107ff32a94001a67",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "assets/index3.html",
+    "_initialWidth": 931,
+    "_initialHeight": 600,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q17",
+    "displayTitle": "",
+    "body": "<p><strong>❯ Quelle est la valeur l1 de l'intensité affichée par l'ampèremètre A1?</strong></p>",
+    "_id": "6309db5b107ff32a94001a6b",
+    "_parentId": "6309db5b107ff32a94001a6a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_additionalResources": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "0.6 A",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "0.3 A",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<div style=\"font-size:2rem\"><p><strong>✔ Bravo!</strong></p></div>",
+      "_incorrect": {
+        "final": "<div style=\"font-size:2rem\"><p><strong>✘ Désolé!</strong></p></div>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]
